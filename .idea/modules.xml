@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chess.iml" filepath="$PROJECT_DIR$/chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-ai-client/chess-ai-client.iml" filepath="$PROJECT_DIR$/chess-ai-client/chess-ai-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-ai-domain/chess-ai-domain.iml" filepath="$PROJECT_DIR$/chess-ai-domain/chess-ai-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chess-ai-restapi/chess-ai-restapi.iml" filepath="$PROJECT_DIR$/chess-ai-restapi/chess-ai-restapi.iml" />
+    </modules>
+  </component>
+</project>

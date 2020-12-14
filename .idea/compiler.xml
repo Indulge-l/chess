@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chess-ai-restapi" />
+        <module name="chess-ai-client" />
+        <module name="chess-ai-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chess" target="12" />
+      <module name="chess-ai-client" target="12" />
+      <module name="chess-ai-domain" target="12" />
+      <module name="chess-ai-restapi" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chess" options="" />
+      <module name="chess-ai-client" options="" />
+      <module name="chess-ai-domain" options="" />
+      <module name="chess-ai-restapi" options="" />
+    </option>
+  </component>
+</project>
